@@ -1,12 +1,12 @@
 # Education Template
 - layout: left
-  name: NYU Courant
+  name: New York University
   dates: Sept 2018 - Dec 2019 (Expected)
   qualification: M.S. in Mathematics in Finance
   quote: >
     Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
-    
+
 
 - layout: left
   name: University of Michigan
