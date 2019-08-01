@@ -12,6 +12,16 @@
       <p><b>{{ job.title }}</b></p>
       <p>{{ job.dates }}</p>
     {% endfor %}
+    <ul class="icons no-print">
+      {%- if site.python -%}
+        <li>
+          <a target="_blank" href="" class="button button--sacnite button--round-l">
+            <i class="fab fa-Python" title="Python Icon"></i>
+          </a>
+        </li>
+      {%- endif -%}
+    </ul>
+
     {%- if include.item.github -%}
       <p class="no-print">
         <a href="https://github.com/{{ include.item.github }}" target="_blank">
@@ -19,6 +29,7 @@
         </a>
       </p>
     {%- endif -%}
+
   </div>
   <div class="col-xs-12 col-sm-8 col-md-9 col-print-12">
     {%- if include.item.quote -%}
