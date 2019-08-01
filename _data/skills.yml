@@ -1,11 +1,4 @@
 # Skills template
 - layout: top-middle
   name: Project name
-  collections:
-  - name: settings
-    label: Settings
-    icon: fa-python
-    files:
-      - label: Global Settings
-        name: global
-        file: global-settings.yml
+  icon: fa-python
