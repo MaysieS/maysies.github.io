@@ -6,7 +6,7 @@
   quote: >
     Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    
 
 - layout: left
   name: University of Michigan
@@ -15,5 +15,13 @@
   quote: >
     Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
-    Doubled major in Mathematics (Financial Mathematics track) and Statistics
-    Graduated in Distiction
+    Graduated with Distinction
+
+- layout: left
+  name: Illinois Institute of Technology
+  dates: Aug 2014 - May 2016
+  qualification: Applied Mathematics
+  quote: >
+    Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+    Transferred to the University of Michigan
