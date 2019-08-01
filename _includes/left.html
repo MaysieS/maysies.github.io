@@ -12,22 +12,6 @@
       <p><b>{{ job.title }}</b></p>
       <p>{{ job.dates }}</p>
     {% endfor %}
-    <ul class="icons no-print">
-      {%- if site.python -%}
-        <li>
-          <a target="_blank" href="https://www.python.org/" class="button button--sacnite button--round-l">
-            <i class="fa fa-Python" title="Python Icon"></i>
-          </a>
-        </li>
-      {%- endif -%}
-      {%- if site.github_username -%}
-        <li>
-          <a target="_blank" href="https://github.com/{{ site.github_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
-            <i class="fa fa-github" title="Github link"></i>
-          </a>
-        </li>
-      {%- endif -%}
-    </ul>
 
     {%- if include.item.github -%}
       <p class="no-print">
@@ -44,4 +28,24 @@
     {%- endif -%}
     {{ include.item.description | strip | markdownify }}
   </div>
+
+  <div class="col-xs-12 col-sm-8 col-md-9 details">
+    <ul class="icons no-print">
+      {%- if site.python -%}
+        <li>
+          <a target="_blank" href="https://www.python.org/" class="button button--sacnite button--round-l">
+            <i class="fa fa-Python" title="Python Icon"></i>
+          </a>
+        </li>
+      {%- endif -%}
+      {%- if site.github_username -%}
+        <li>
+          <a target="_blank" href="https://github.com/{{ site.github_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
+            <i class="fa fa-github" title="Github link"></i>
+          </a>
+        </li>
+      {%- endif -%}
+    </ul>
+  </div>
+
 </div>
