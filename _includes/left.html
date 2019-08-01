@@ -31,14 +31,14 @@
 
   <div class="col-xs-12 col-sm-8 col-md-9 details">
     <ul class="icons print">
-      {%- if site.python -%}
+      {%- if include.item.python -%}
         <li>
           <a target="_blank" href="https://www.python.org/" class="button button--sacnite button--round-l">
             <i class="fa fa-Python" title="Python Icon"></i>
           </a>
         </li>
       {%- endif -%}
-      {%- if site.github_username -%}
+      {%- if include.item.github_username -%}
         <li>
           <a target="_blank" href="https://github.com/{{ site.github_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
             <i class="fa fa-github" title="Github link"></i>
