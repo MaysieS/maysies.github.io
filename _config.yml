@@ -17,7 +17,7 @@ linkedin_username: meixi-maysie-sun
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: test/images/travis.png
+about_profile_image: /Users/meixisun/Documents/Lightroom/6133219046288395907_IMG_0011.jpg
 about_content: | # this will include new lines to allow paragraphs
   I'm currently a M. S. Candidate in Mathematics in Finance at NYU Courant and working for United Nations Joint Staff Pension Fund this summer as a Quant Investment Analyst.
 
@@ -38,7 +38,7 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
   Books. Movies. Fine Arts. New Techs. Violin.
-  
+
   Beijing -> Chicago -> Ann Arbor -> New York -> .....
 
 # Footer
