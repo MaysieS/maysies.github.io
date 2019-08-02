@@ -19,13 +19,11 @@ linkedin_username: meixi-maysie-sun
 # about_title: About Me (Use this to override about section title)
 about_profile_image: test/images/travis.png
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  I'm currently a M. S. Candidate in Mathematics in Finance at NYU Courant and working for United Nations Joint Staff Pension Fund this summer as a Quant Investment Analyst.
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - Links
-    - Images
+  I'm actively looking for <mark>Quant Finance</mark> and <mark>Data Science</mark> full time jobs.
+
+
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -39,9 +37,8 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  Books. Movies. Fine Arts. New Techs. Violin.
+  | Beijing -> Chicago -> Ann Arbor -> New York -> .....
 
 # Footer
 footer_show_references: true

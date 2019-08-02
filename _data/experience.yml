@@ -1,10 +1,13 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: United  Nations Joint Staff Pension Fund
+  link: https://www.unjspf.org/
+  job_title: Quant Investment Summer Analyst
+  dates: Jun 2019 - Aug 2019
   quote: >
-   Short description of the company (optional)
+   AUM $67 Billions
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    - Monitored multi-asset allocation and constructed optimal portfolio by minimizing the Expected Shortfall
+    - Generated duration shifts simulations on Fixed Income investments for portfolio optimization
+    - Evaluated portfolio managers’ performance using Stochastic Dominance, Regime Shift and statistical techniques, and implemented Monte Carlo simulation on their monthly returns to forecast future performance
+    - Researched on the risk metrics in Real Estate and Private Equity investments for potential asset re-allocation

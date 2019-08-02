@@ -4,8 +4,9 @@
   dates: Sept 2018 - Dec 2019 (Expected)
   qualification: M.S. in Mathematics in Finance
   quote: >
-    Short institution or course description (optional)
+    Derivatives pricing and hedging, factor models, stochastic calculus, portfolio and risk management, interest rate and FX models, VaR, OOP in Java, optimization in Python
   description: | # this will include new lines to allow paragraphs
+    Currently study at
 
 
 - layout: left
@@ -13,7 +14,7 @@
   dates: Sept 2016 - Apr 2018
   qualification: B.S. in Mathematics & B.S. in Statistics
   quote: >
-    Short institution or course description (optional)
+    Probability, C++ programming, linear algebra, linear ODEs, Black-Scholes model, Monte Carlo Simulation, applied linear and logistic regressions, LDA, QDA and KNN classification methods, Ridge and Lasso regressions, SVM
   description: | # this will include new lines to allow paragraphs
     Graduated with Distinction
 
@@ -22,6 +23,6 @@
   dates: Aug 2014 - May 2016
   qualification: Applied Mathematics
   quote: >
-    Short institution or course description (optional)
+    Mathematical Modeling, Complex Analysis
   description: | # this will include new lines to allow paragraphs
     Transferred to University of Michigan

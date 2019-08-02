@@ -1,5 +1,8 @@
 # Skills template
 - layout: left
   name: Computer Skills
-  python: gg
-  github_username: MaysieS
+  description: Java, Python, R, C++, SQL, Matlab, Excel
+
+- layout: left
+  name: Languages
+  description: Chinese (Native), English (Business)
