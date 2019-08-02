@@ -17,7 +17,7 @@ linkedin_username: meixi-maysie-sun
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: https://github.com/MaysieS/maysies.github.io/tree/master/_test/images/profile1.jpg
+about_profile_image: "https://github.com/MaysieS/maysies.github.io/tree/master/_test/images/profile1.jpg"
 about_content: | # this will include new lines to allow paragraphs
   I'm currently a M. S. Candidate in Mathematics in Finance at NYU Courant and working for United Nations Joint Staff Pension Fund this summer as a Quant Investment Analyst.
 
