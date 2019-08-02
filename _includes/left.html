@@ -29,23 +29,6 @@
     {{ include.item.description | strip | markdownify }}
   </div>
 
-  <div class="col-xs-12 col-sm-8 col-md-9 details">
-    <ul class="no-print">
-      {%- if include.item.python -%}
-        <li>
-          <a target="_blank" href="https://www.python.org/" >
-            <i class="fab fa-python" title="Python Icon"></i>
-          </a>
-        </li>
-      {%- endif -%}
-      {%- if include.item.github_username -%}
-        <li>
-          <a target="_blank" href="https://github.com/{{ site.github_username| cgi_escape | escape }}" >
-            <i class="fa fa-github" title="Github link"></i>
-          </a>
-        </li>
-      {%- endif -%}
-    </ul>
-  </div>
+
 
 </div>
