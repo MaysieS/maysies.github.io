@@ -5,8 +5,6 @@
   qualification: M.S. in Mathematics in Finance
   quote: >
     Derivatives pricing and hedging, factor models, stochastic calculus, portfolio and risk management, interest rate and FX models, VaR, OOP in Java, optimization in Python
-  description: | # this will include new lines to allow paragraphs
-    Currently study at
 
 
 - layout: left
@@ -15,8 +13,6 @@
   qualification: B.S. in Mathematics & B.S. in Statistics
   quote: >
     Probability, C++ programming, linear algebra, linear ODEs, Black-Scholes model, Monte Carlo Simulation, applied linear and logistic regressions, LDA, QDA and KNN classification methods, Ridge and Lasso regressions, SVM
-  description: | # this will include new lines to allow paragraphs
-    Graduated with Distinction
 
 - layout: left
   name: Illinois Institute of Technology
@@ -24,5 +20,3 @@
   qualification: Applied Mathematics
   quote: >
     Mathematical Modeling, Complex Analysis
-  description: | # this will include new lines to allow paragraphs
-    Transferred to University of Michigan

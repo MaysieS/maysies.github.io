@@ -38,7 +38,8 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
   Books. Movies. Fine Arts. New Techs. Violin.
-  | Beijing -> Chicago -> Ann Arbor -> New York -> .....
+  
+  Beijing -> Chicago -> Ann Arbor -> New York -> .....
 
 # Footer
 footer_show_references: true
